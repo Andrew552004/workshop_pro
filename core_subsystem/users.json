@@ -1,0 +1,65 @@
+[
+    {
+        "username": "admin",
+        "password": "admin",
+        "grants": {
+            "add_vehicle": true,
+            "remove_vehicle": true,
+            "search_vehicle": true
+        }
+    },
+    {
+        "username": "user",
+        "password": "user",
+        "grants": {
+            "add_vehicle": false,
+            "remove_vehicle": false,
+            "search_vehicle": true
+        }
+    },
+    {
+        "username": "ast",
+        "password": "123",
+        "grants": {
+            "add_vehicle": false,
+            "remove_vehicle": false,
+            "search_vehicle": true
+        }
+    },
+    {
+        "username": "as",
+        "password": "as",
+        "grants": {
+            "add_vehicle": false,
+            "remove_vehicle": false,
+            "search_vehicle": true
+        }
+    },
+    {
+        "username": "sdf",
+        "password": "sdf",
+        "grants": {
+            "add_vehicle": false,
+            "remove_vehicle": false,
+            "search_vehicle": true
+        }
+    },
+    {
+        "username": "asd",
+        "password": "asd",
+        "grants": {
+            "add_vehicle": false,
+            "remove_vehicle": false,
+            "search_vehicle": true
+        }
+    },
+    {
+        "username": "test",
+        "password": "test",
+        "grants": {
+            "add_vehicle": false,
+            "remove_vehicle": false,
+            "search_vehicle": true
+        }
+    }
+]
